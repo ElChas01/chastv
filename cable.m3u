@@ -3,3 +3,7 @@
 https://zw5k.la10tv.com/lb/liga1max/index.m3u8
 #EXTINF:-1 tvg-id="GOLPERU" tvg-logo="https://img.futbollibrehd.pe/uploads/gol_peru_7167cd54dd.webp" group-title="DEPORTES",GOLPERU
 https://d2hpc3rszq.la10tv.com/lb/golperu/index.m3u8
+#EXTINF:-1 tvg-id="MOVISTAR DEPORTES" tvg-logo="https://futbollibretv.pe/img/logo-canal/movistar_deportes.webp" group-title="DEPORTES",MOVISTAR DEPORTES
+https://zxzlbnrz.la10tv.com/movistar/index.m3u8
+#EXTINF:-1 tvg-id="TLNOVELAS" tvg-logo="https://television-libre.net/img/tlnovelas.png" group-title="NOVELAS",TLNOVELAS
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TLNOVELAS)/manifest.mpd
