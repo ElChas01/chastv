@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="L1MAX" tvg-logo="https://th.bing.com/th/id/OIP.ZQzpGQ0CVc8HbXXgVXvzegAAAA?rs=1&pid=ImgDetMain" group-title="DEPORTES",L1MAX
+https://zw5k.la10tv.com/lb/liga1max/index.m3u8
+#EXTINF:-1 tvg-id="GOLPERU" tvg-logo="https://img.futbollibrehd.pe/uploads/gol_peru_7167cd54dd.webp" group-title="DEPORTES",GOLPERU
+https://d2hpc3rszq.la10tv.com/lb/golperu/index.m3u8
