@@ -13,3 +13,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(T
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="AMERICA" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/07/15/05/1689374862287/26712907fe39_640_360.png" group-title="General",AMERICA
 https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://futbollibretv.pe/img/logo-canal/espn.webp" group-title="General",ESPN
+https://zw5k.la10tv.com/lb/espn/index.m3u8?token=fdcc46ea4a4ef52b64bf6e74f726bc0334006fec-7a707e81d6653ef5e161744749f34db2-1727238920-1727202920&remote=179.6.168.30
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://futbollibretv.pe/img/logo-canal/espn.webp" group-title="General",ESPN 2
+https://b2zmawnpyww.la10tv.com/lb/espn2/index.m3u8?token=c6f5a866afb23778e5b25609ea6fed07b1d6b152-c5ea1bfcf9a6db1e482d7f92cf3675f0-1727238920-1727202920&remote=179.6.168.30
